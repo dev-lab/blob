@@ -1,2 +1,3 @@
 # blob
-Large BLOBs, mostly media files.
+* Large BLOBs
+* media files.
